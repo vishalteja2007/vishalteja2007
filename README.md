@@ -1,5 +1,12 @@
 # 💫 About Me:
-im vishalteja student in harsha institute of technology banglore <br>currently im learning python mechine learning and AI <br>im look for colabarations with HR's who offers a internship<br>
+Hi, I’m Vishalteja 👋
+I’m a student at Harsha Institute of Technology, Bengaluru, currently learning Python, Machine Learning, and Artificial Intelligence.
+
+I’m passionate about building real-world projects, improving my problem-solving skills, and exploring practical applications of AI.
+
+🔍 Looking for collaborations and internship opportunities with HRs and teams where I can learn, contribute, and grow as a developer.
+
+🚀 Always eager to learn new technologies and work on innovative ideas.<br>
 
 
 ## 🌐 Socials:
