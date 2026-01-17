@@ -12,6 +12,8 @@ I’m passionate about building real-world projects, improving my problem-solvin
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishalteja_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishaltejakatta77@gmail.com) 
 
+🔗 **LinkedIn:** [Vishalteja Katta](https://www.linkedin.com/in/vishalteja-katta-938053360)
+
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 # 📊 GitHub Stats:
